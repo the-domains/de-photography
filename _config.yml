@@ -1,4 +1,3 @@
-layout_spectrum: 0.36304314248263836
 typography_spectrum: 0.7932290507014841
 color:
   brandStrength: 0.003415871411561966
@@ -11,4 +10,14 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e491c165-9550-4c6a-b72a-820d9f36a23e.jpg'
+layout_spectrum: 0.36304314248263836
+author:
+  name: Diederick
+  email: diederick@de-photography.net
+  url: www.de-photography.net
+logo: null
 name: DE-PHOTOGRAPHY
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c639c194-251e-4738-81aa-3331c920eafb.jpg'
+title: Property and interior Photography Professionals
