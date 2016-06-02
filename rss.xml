@@ -4,8 +4,22 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 21:38:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful views from beautiful places]]></title>
+            <description><![CDATA[<article><h1>Beautiful views from beautiful places</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8882aa5af4734568e547310706c6ed63ea42b3fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/beautiful-views-from-beautiful-places/index.html</link>
+            <guid isPermaLink="false">7ae14e3a-957f-4062-973a-479b66e28615</guid>
+            <pubDate>Thu, 02 Jun 2016 21:38:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Professional Property and Interior Photography]]></title>
+            <description><![CDATA[<article><h1>Professional Property and Interior Photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a314f11be5a143a5bae684892ae0200527e6ffc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/professional-property-and-interior-photography/index.html</link>
+            <guid isPermaLink="false">f8c0a76c-ed39-4875-92f7-b1067742e902</guid>
+            <pubDate>Thu, 02 Jun 2016 21:38:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Perfect Shot]]></title>
             <description><![CDATA[<article><h1>The Perfect Shot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b95ede966208d0b994792b8afd3e33c2dc89af69.jpg"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/de-photography/prices-from-as-little-as-pound55-per-property/index.html</link>
             <guid isPermaLink="false">829f2540-cff3-4679-ac99-532935e77d01</guid>
             <pubDate>Thu, 02 Jun 2016 21:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Professional Property and Interior Photography]]></title>
-            <description><![CDATA[<article><h1>Professional Property and Interior Photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a314f11be5a143a5bae684892ae0200527e6ffc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/de-photography/professional-property-and-interior-photography/index.html</link>
-            <guid isPermaLink="false">f8c0a76c-ed39-4875-92f7-b1067742e902</guid>
-            <pubDate>Wed, 01 Jun 2016 18:08:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/de-photography/93cb8f79-137d-44cd-a8e9-9c0f29f1ea85/index.html</link>
             <guid isPermaLink="false">93cb8f79-137d-44cd-a8e9-9c0f29f1ea85</guid>
             <pubDate>Thu, 26 May 2016 08:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a108b6-8a88-4da5-8552-f3ea85e389e3.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/c9a24344-85ee-49be-beeb-fd41a9402bb8/index.html</link>
-            <guid isPermaLink="false">c9a24344-85ee-49be-beeb-fd41a9402bb8</guid>
-            <pubDate>Thu, 26 May 2016 08:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
