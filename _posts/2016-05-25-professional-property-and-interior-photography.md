@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-24T15:15:40.051Z'
+datePublished: '2016-06-24T15:22:41.934Z'
 sourcePath: _posts/2016-05-25-professional-property-and-interior-photography.md
 author: []
-dateModified: '2016-06-24T15:14:45.458Z'
-title: Professional Property and Interior Photography
+dateModified: '2016-06-24T15:22:30.974Z'
+title: 'Professional Property and Interior Photography '
 description: ''
 starred: false
 inFeed: true
