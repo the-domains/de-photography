@@ -8,6 +8,27 @@
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9714c7c5393774126d0afa1a4a8eb51b3eca54af.jpg">]]></description>
+            <link>https://thegrid.ai/de-photography/63888a17-03ca-4f9c-9313-dbe81d515243/index.html</link>
+            <guid isPermaLink="false">63888a17-03ca-4f9c-9313-dbe81d515243</guid>
+            <pubDate>Fri, 24 Jun 2016 11:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d16577-b625-4fcb-add3-c8553802fbd8.jpg">]]></description>
+            <link>https://thegrid.ai/de-photography/8db28e4d-b198-47f2-a029-12231def17fd/index.html</link>
+            <guid isPermaLink="false">8db28e4d-b198-47f2-a029-12231def17fd</guid>
+            <pubDate>Fri, 24 Jun 2016 11:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clients]]></title>
+            <description><![CDATA[<article><h1>Clients</h1><p>Chestertons-Mayfair/Knightsbridge/Kew/Richmond,   Carter Jonas,  Northfields,  Rossloan properties/investments,  Halliwell&C0,  Gordon&Co,  Hellas Helvethia,  Barnard Marcus,  Knight Frank,  Plaza Estates, Savills    </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/566cbdeceaf1f7bffa2cde5af60097a377e5e0d6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/clients/index.html</link>
+            <guid isPermaLink="false">c5e2b842-1e9c-464e-8469-f0178a8f52d7</guid>
+            <pubDate>Fri, 24 Jun 2016 11:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5278faedfd511c0472a1c666599749699e749981.jpg">]]></description>
             <link>https://thegrid.ai/de-photography/00721f8f-aeab-4aca-8aa5-713fd5ff8828/index.html</link>
             <guid isPermaLink="false">00721f8f-aeab-4aca-8aa5-713fd5ff8828</guid>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/de-photography/366402e2-1612-46db-91ca-d67df0eab7b7/index.html</link>
             <guid isPermaLink="false">366402e2-1612-46db-91ca-d67df0eab7b7</guid>
             <pubDate>Fri, 24 Jun 2016 11:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c92adc669972f9d1f836ce6e6bfe601c932a241.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/05887d7c-1ba4-4637-86d4-33f25ef2c248/index.html</link>
-            <guid isPermaLink="false">05887d7c-1ba4-4637-86d4-33f25ef2c248</guid>
-            <pubDate>Fri, 24 Jun 2016 11:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ecbcd5c725cf0c480fe4ab13af063ae920ab29b.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/78434bbe-4eac-44ce-89ba-93992271cf8c/index.html</link>
-            <guid isPermaLink="false">78434bbe-4eac-44ce-89ba-93992271cf8c</guid>
-            <pubDate>Fri, 24 Jun 2016 11:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beautiful views from beautiful places]]></title>
-            <description><![CDATA[<article><h1>Beautiful views from beautiful places</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8882aa5af4734568e547310706c6ed63ea42b3fb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/de-photography/beautiful-views-from-beautiful-places/index.html</link>
-            <guid isPermaLink="false">7ae14e3a-957f-4062-973a-479b66e28615</guid>
-            <pubDate>Fri, 24 Jun 2016 11:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
