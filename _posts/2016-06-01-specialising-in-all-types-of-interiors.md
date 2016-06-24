@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-24T16:01:56.609Z'
+datePublished: '2016-06-24T16:54:56.963Z'
 sourcePath: _posts/2016-06-01-specialising-in-all-types-of-interiors.md
 author: []
-dateModified: '2016-06-24T16:01:49.596Z'
-title: Specialising in all Interiors
+dateModified: '2016-06-24T16:40:11.680Z'
+title: Specialising in all types of Interior photography.
 description: ''
 starred: false
 inFeed: true
