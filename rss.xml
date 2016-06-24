@@ -4,15 +4,8 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 17:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 17:48:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/458d3198-e7c9-41b1-b44e-d3f21f73e994.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/b75af748-2f9f-4f1d-9086-9e716b8dba3f/index.html</link>
-            <guid isPermaLink="false">b75af748-2f9f-4f1d-9086-9e716b8dba3f</guid>
-            <pubDate>Fri, 24 Jun 2016 17:49:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Areas we cover]]></title>
             <description><![CDATA[<article><h1>Areas we cover</h1><p>Central and west</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f478edcd2db8cb7323aeef7c5fa7e757/croprotate.jpg?cropheight=1652&cropwidth=2000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0906eb7c-3f7a-4de0-8bb0-dbe8afe28400.jpg&x=0&y=0"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/de-photography/278456f9-49c6-4499-8c7d-7e64390b9938/index.html</link>
             <guid isPermaLink="false">278456f9-49c6-4499-8c7d-7e64390b9938</guid>
             <pubDate>Fri, 24 Jun 2016 16:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e42adc7-cb24-4f69-95fb-147fa70363df.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e42adc7-cb24-4f69-95fb-147fa70363df.jpg</link>
+            <guid isPermaLink="false">479b5f12-d4fd-4c76-a68d-e21b5e98edc0</guid>
+            <pubDate>Fri, 24 Jun 2016 16:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
