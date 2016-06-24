@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-24T11:52:30.113Z'
+datePublished: '2016-06-24T11:54:24.780Z'
 sourcePath: _posts/2016-05-24-prices-from-as-little-as-pound50-per-property.md
 author: []
-dateModified: '2016-06-24T11:39:54.676Z'
+dateModified: '2016-06-24T11:54:17.586Z'
 title: Prices from as little as £55 per property
 description: 'Photographs     Floorplans     EPC''s '
 starred: false
