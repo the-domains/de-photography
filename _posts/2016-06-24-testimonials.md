@@ -1,20 +1,20 @@
 ---
 description: Testimonials
-dateModified: '2016-06-24T15:49:35.297Z'
-datePublished: '2016-06-24T15:50:01.281Z'
+dateModified: '2016-06-24T16:02:37.342Z'
+datePublished: '2016-06-24T16:02:51.855Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc25b42-fdbc-4b9c-8e2b-075442082f64.jpg
-starred: false
 sourcePath: _posts/2016-06-24-testimonials.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![Well prepared ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc25b42-fdbc-4b9c-8e2b-075442082f64.jpg)
+![Well prepared ](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36d4cd62d5113b23ddac9d29b4c9b240/croprotate.jpg?cropheight=2587&cropwidth=3954&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fecc25b42-fdbc-4b9c-8e2b-075442082f64.jpg&x=0&y=0)
 
 Testimonials
 
