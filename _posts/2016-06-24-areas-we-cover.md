@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-24T17:55:52.133Z'
+datePublished: '2016-06-26T19:50:51.112Z'
 sourcePath: _posts/2016-06-24-areas-we-cover.md
 author: []
-dateModified: '2016-06-24T17:55:48.064Z'
+dateModified: '2016-06-24T18:01:47.597Z'
 title: Areas we cover
 description: Central and west
 starred: false
