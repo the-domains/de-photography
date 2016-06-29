@@ -11,7 +11,10 @@ color:
     - '#3E606F'
     - '#193441'
 opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e491c165-9550-4c6a-b72a-820d9f36a23e.jpg'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/e491c165-9550-4c6a-b72a-820d9f36a23e.jpg
+  appId: diederick@de-photography.net
+  type: de-photography.net
 layout_spectrum: 0.36304314248263836
 author:
   name: DE-PHOTOGRAPHY.NET
@@ -19,5 +22,6 @@ author:
   url: www.de-photography.net
 logo: null
 name: DE-PHOTOGRAPHY
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c639c194-251e-4738-81aa-3331c920eafb.jpg'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c639c194-251e-4738-81aa-3331c920eafb.jpg
 title: Property and interior Photography Professionals
