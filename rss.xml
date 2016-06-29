@@ -4,22 +4,8 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 16:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 16:55:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Beautiful views from beautiful places]]></title>
-            <description><![CDATA[<article><h1>Beautiful views from beautiful places</h1><p>diederick@de-photography.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8882aa5af4734568e547310706c6ed63ea42b3fb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/de-photography/beautiful-views-from-beautiful-places/index.html</link>
-            <guid isPermaLink="false">7ae14e3a-957f-4062-973a-479b66e28615</guid>
-            <pubDate>Wed, 29 Jun 2016 16:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DE-PHOTOGRAPHY.NET]]></title>
-            <description><![CDATA[<article><h1>DE-PHOTOGRAPHY.NET</h1><p>Photos - Floorplans - EPC's - Brochures </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a314f11be5a143a5bae684892ae0200527e6ffc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/de-photography/de-photographynet/index.html</link>
-            <guid isPermaLink="false">f8c0a76c-ed39-4875-92f7-b1067742e902</guid>
-            <pubDate>Wed, 29 Jun 2016 16:55:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ecbcd5c725cf0c480fe4ab13af063ae920ab29b.jpg">]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/de-photography/366402e2-1612-46db-91ca-d67df0eab7b7/index.html</link>
             <guid isPermaLink="false">366402e2-1612-46db-91ca-d67df0eab7b7</guid>
             <pubDate>Tue, 28 Jun 2016 17:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testimonials ]]></title>
+            <description><![CDATA[<article><h1>Testimonials </h1><p>Well prepared </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2542d33206356b18a3309355f87cedffef3ab8e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc25b42-fdbc-4b9c-8e2b-075442082f64.jpg</link>
+            <guid isPermaLink="false">868af7e1-676c-49ab-a58c-cf7a0c2b5ae7</guid>
+            <pubDate>Tue, 28 Jun 2016 17:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Areas we cover]]></title>
+            <description><![CDATA[<article><h1>Areas we cover</h1><p>Central and west</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f478edcd2db8cb7323aeef7c5fa7e757/croprotate.jpg?cropheight=1652&cropwidth=2000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0906eb7c-3f7a-4de0-8bb0-dbe8afe28400.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/areas-we-cover/index.html</link>
+            <guid isPermaLink="false">b7954a54-e57f-466e-93c7-0cd85dc99a9f</guid>
+            <pubDate>Sun, 26 Jun 2016 20:34:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
