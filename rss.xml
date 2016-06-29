@@ -4,8 +4,29 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 16:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 16:42:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DE-PHOTOGRAPHY.NET]]></title>
+            <description><![CDATA[<article><h1>DE-PHOTOGRAPHY.NET</h1><p>Photos - Floorplans - EPC's - Brochures </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a314f11be5a143a5bae684892ae0200527e6ffc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/de-photographynet/index.html</link>
+            <guid isPermaLink="false">f8c0a76c-ed39-4875-92f7-b1067742e902</guid>
+            <pubDate>Wed, 29 Jun 2016 16:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d16577-b625-4fcb-add3-c8553802fbd8.jpg">]]></description>
+            <link>https://thegrid.ai/de-photography/8db28e4d-b198-47f2-a029-12231def17fd/index.html</link>
+            <guid isPermaLink="false">8db28e4d-b198-47f2-a029-12231def17fd</guid>
+            <pubDate>Wed, 29 Jun 2016 16:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/feb636f22175604f2bd00609840235a2608d640a.jpg">]]></description>
+            <link>https://thegrid.ai/de-photography/b2350c86-97e4-42eb-a4c5-aaac89f1048d/index.html</link>
+            <guid isPermaLink="false">b2350c86-97e4-42eb-a4c5-aaac89f1048d</guid>
+            <pubDate>Wed, 29 Jun 2016 16:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A perfect shot]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b95ede966208d0b994792b8afd3e33c2dc89af69.jpg">]]></description>
@@ -54,13 +75,6 @@
             <link>https://thegrid.ai/de-photography/7922f5c0-4753-46a3-bff4-6e2939336564/index.html</link>
             <guid isPermaLink="false">7922f5c0-4753-46a3-bff4-6e2939336564</guid>
             <pubDate>Fri, 24 Jun 2016 18:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ecbcd5c725cf0c480fe4ab13af063ae920ab29b.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/78434bbe-4eac-44ce-89ba-93992271cf8c/index.html</link>
-            <guid isPermaLink="false">78434bbe-4eac-44ce-89ba-93992271cf8c</guid>
-            <pubDate>Fri, 24 Jun 2016 18:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
