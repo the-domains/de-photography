@@ -4,15 +4,8 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 20:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 20:22:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e677768-8c0d-4b4f-a35c-e4ae6a87e637.jpg">]]></description>
-            <link>https://thegrid.ai/de-photography/4a54adff-9f26-4d60-b564-9deeed445937/index.html</link>
-            <guid isPermaLink="false">4a54adff-9f26-4d60-b564-9deeed445937</guid>
-            <pubDate>Thu, 30 Jun 2016 20:21:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Package deals]]></title>
             <description><![CDATA[<article><h1>Package deals</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d78ac979-bfc8-436f-b5d3-95d9c60daaaf.png"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16bdc16-3403-4221-a751-fee0fae49dec.png</link>
             <guid isPermaLink="false">333a8a7d-b920-4d91-9784-93f198d3118e</guid>
             <pubDate>Thu, 30 Jun 2016 20:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beautiful views from beautiful places]]></title>
+            <description><![CDATA[<article><h1>Beautiful views from beautiful places</h1><p>diederick@de-photography.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8882aa5af4734568e547310706c6ed63ea42b3fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/beautiful-views-from-beautiful-places/index.html</link>
+            <guid isPermaLink="false">7ae14e3a-957f-4062-973a-479b66e28615</guid>
+            <pubDate>Wed, 29 Jun 2016 17:06:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DE-PHOTOGRAPHY.NET]]></title>
@@ -68,6 +68,13 @@
             <link>https://thegrid.ai/de-photography/8ed493a4-c49e-4aea-b5e4-3e6985a1e847/index.html</link>
             <guid isPermaLink="false">8ed493a4-c49e-4aea-b5e4-3e6985a1e847</guid>
             <pubDate>Wed, 29 Jun 2016 16:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8314c33d-9c08-4b2a-a3cd-7ddd4ea2e34f.jpg">]]></description>
+            <link>https://thegrid.ai/de-photography/7fbe9a44-7047-498a-a898-c7889eaac993/index.html</link>
+            <guid isPermaLink="false">7fbe9a44-7047-498a-a898-c7889eaac993</guid>
+            <pubDate>Wed, 29 Jun 2016 16:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
