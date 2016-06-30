@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-30T20:28:47.709Z'
-datePublished: '2016-06-30T20:28:55.365Z'
+dateModified: '2016-06-30T20:35:07.450Z'
+datePublished: '2016-06-30T20:35:42.575Z'
 title: Package deals
 author: []
 isBasedOnUrl: >-
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d78ac979-bfc8-436f-b5d3-95d9c60daaaf.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46f49871-b5ef-4c1b-957a-7bac36ba5837.png)
 
 # Package deals
 
