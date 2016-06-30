@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-06-30T20:20:55.020Z'
-datePublished: '2016-06-30T20:21:55.938Z'
+dateModified: '2016-06-30T20:28:47.709Z'
+datePublished: '2016-06-30T20:28:55.365Z'
 title: Package deals
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533383d-345e-4b59-b7fb-b385f6308eb4.png
-starred: false
 sourcePath: _posts/2016-06-30-package-deals.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
