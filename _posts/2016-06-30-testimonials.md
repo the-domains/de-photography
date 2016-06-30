@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-06-30T20:54:22.688Z'
-datePublished: '2016-06-30T20:55:22.073Z'
-title: 'Testimonials '
+dateModified: '2016-06-30T20:56:48.486Z'
+datePublished: '2016-06-30T20:57:11.737Z'
+title: Testimonials
 author: []
-starred: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f25d0d40-2a33-41bb-b2aa-38a95387a4e3.png
 sourcePath: _posts/2016-06-30-testimonials.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,7 +16,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f25d0d40-2a33-41bb-b2aa-38a95387a4e3.png)
 
-# Testimonials 
+# Testimonials
 
 Testimonials
 
