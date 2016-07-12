@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-24T16:51:35.509Z'
+datePublished: '2016-07-12T20:59:49.308Z'
 sourcePath: _posts/2016-06-24-brochures.md
 author: []
-dateModified: '2016-06-24T16:51:23.719Z'
+dateModified: '2016-06-24T16:59:47.352Z'
 title: Brochures
 description: gergana@de-photography.net
 starred: false
@@ -19,4 +19,4 @@ _type: Article
 
 We work closely with our clients in setting up the perfect template layout for their personalised brochures.
 
-Whether its a 2 or 4 page layout.....Gloss or Matt laminated brochure or window card, we can provide you with a fast, reliable and quality service.
+Whether its a 2 or 4 page layout.....Gloss or Matt laminated brochure / window card, we can provide you with a fast, reliable and quality service.
