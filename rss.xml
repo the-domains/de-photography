@@ -4,8 +4,15 @@
         <description><![CDATA[Property and interior Photography Professionals]]></description>
         <link>https://thegrid.ai/de-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 08:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 08:04:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/de-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful views from beautiful places]]></title>
+            <description><![CDATA[<article><h1>Beautiful views from beautiful places</h1><p>diederick@de-photography.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8882aa5af4734568e547310706c6ed63ea42b3fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/de-photography/beautiful-views-from-beautiful-places/index.html</link>
+            <guid isPermaLink="false">7ae14e3a-957f-4062-973a-479b66e28615</guid>
+            <pubDate>Thu, 14 Jul 2016 08:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DE-PHOTOGRAPHY.NET]]></title>
             <description><![CDATA[<article><h1>DE-PHOTOGRAPHY.NET</h1><p>Photos - Floorplans - EPC's - Brochures </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a314f11be5a143a5bae684892ae0200527e6ffc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/de-photography/dea90c38-a125-407a-9d96-941ba0521820/index.html</link>
             <guid isPermaLink="false">dea90c38-a125-407a-9d96-941ba0521820</guid>
             <pubDate>Thu, 14 Jul 2016 08:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Training and Internships]]></title>
-            <description><![CDATA[<article><h1>Training and Internships</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16bdc16-3403-4221-a751-fee0fae49dec.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16bdc16-3403-4221-a751-fee0fae49dec.png</link>
-            <guid isPermaLink="false">333a8a7d-b920-4d91-9784-93f198d3118e</guid>
-            <pubDate>Thu, 14 Jul 2016 08:03:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
